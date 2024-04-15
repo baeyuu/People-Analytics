@@ -60,7 +60,7 @@ Recruitment Dashboard of a Tech company using PowerBI
 
 This project provides insight into the Talent Recruitment section of a Tech company's HR Department for 2022 TO 2023. By analyzing various parts of the Recruitment data, to identify trends, make data-inspired recommendations for the company's policy.
 
-![image](https://github.com/baeyuu/People-Analytics/assets/64594215/22223be2-54a9-4677-9055-a844bd14ae9f)
+![image](https://github.com/baeyuu/People-Analytics/assets/64594215/6b1195b8-3267-412c-b64c-c043ec2087c6)
 
 
 ### Data Sources 
@@ -83,22 +83,21 @@ The basic cleaning done on the dataset is
 ### Dashboarding
 
 The Dashboard involved exploring the dataset to answer key KPIs questions such as:
-- The KPI's telling the Total Candidate applications, opened roles, cost of hires, offer acceptance, time to fill, time to hire, and Candidate Experience rating
-- Trend analysis by Year, Quarter and month
-- Project performance by KPIs
-- writing dax formulas to create measures and and models
+- The KPIs tell the Total Candidate applications, opened roles, cost of hires, offer acceptance, time to fill, time to hire, and Candidate Experience rating of the recruitment process
+- Rejection Reasons
+- Writing Dax formulas to create measures and models
 
 
 ### Result and Findings
 
 The Analysis results are summarized thus:
-- Evelyn Schmidt Has the highest client satisfaction rating despite a quite low waste audited.
-- There has been a drop in client satisfaction below the avaerage satisfaction since the Q4 of 2023
-- Li Wei, and Mohammed Hernandez fas been the poorest performing employee across all KPIs
-- Composting Program Implementation has the lowest rating acrross all KPIs
+- The average cost per hire of the organization is 412 euros, which is quite high.
+- It takes the organization an average of 30 days to fill a role and 7 days to hire a candidates
+- The organisation has a low offer acceptance rate of 44% and 20% of the Rejection is salary expectation-related
+- The product designer role is mostly open in the organization.
 
 ### Recommendation
 Based on the analysis the following recommendations should be considered by the company
-- The organization needs to look into the Composting program implentation program and how to improve its performance.
-- The organization needs to look into the cause of reducing performance from the Quarter 4 of 2023 how to improve its performance
-- The organization needs to design a cummulative rating metric for each employee.
+- The organization needs to look into the Talent management pipeline and strategy that will reduce hiring costs and open roles, especially for Product designers and software engineers.
+- The organization needs to look into its pay range and organisational culture as it is a major indicator of the high rate of offer rejection 
+
